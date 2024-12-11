@@ -10,9 +10,9 @@ Node.js, and MongoDB, and enjoy crafting maintainable code.
 ## Projects
 Check out some of my favorite projects below or navigate to the repositories section for a
 complete list.
-- [Food Ordering Website](https://github.com/your-repo-link) - A full-stack application for
+- [Food Ordering Website](https://github.com/Leah-Win/FoodWebsite.git) - A full-stack application for
 managing food orders with separate user and business interfaces.
-- [Social Network Application](https://github.com/your-repo-link) - A React-based social
+- [Social Network Application](https://github.com/tziviaMitrani/nodeProject.git) - A React-based social
 media platform featuring posts, comments, and photo albums.
 ---
 Reach out to me at tzivia2004@gmail.com
