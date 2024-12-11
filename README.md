@@ -1,4 +1,4 @@
-# Welcome to Tzivia Mitrani&#39;s GitHub =
+# Welcome to Tzivia Mitrani&#39;s GitHub
 Hi there! I&#39;m Tzivia Mitrani, a passionate Full Stack Developer with hands-on experience in
 building efficient and user-friendly web applications. I specialize in JavaScript, React,
 Node.js, and MongoDB, and enjoy crafting maintainable code.
