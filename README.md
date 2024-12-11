@@ -15,4 +15,4 @@ managing food orders with separate user and business interfaces.
 - [Social Network Application](https://github.com/tziviaMitrani/nodeProject.git) - A React-based social
 media platform featuring posts, comments, and photo albums.
 ---
-Reach out to me at tzivia2004@gmail.com
+
