@@ -1,5 +1,5 @@
 # Welcome to Tzivia Mitrani&#39;s GitHub
-Hi there! I&#39;m Tzivia Mitrani, a passionate Full Stack Developer with hands-on experience in
+I&#39;m Tzivia Mitrani, a passionate Full Stack Developer with hands-on experience in
 building efficient and user-friendly web applications. I specialize in JavaScript, React,
 Node.js, and MongoDB, and enjoy crafting maintainable code.
 ## Key Highlights:
@@ -8,7 +8,7 @@ Node.js, and MongoDB, and enjoy crafting maintainable code.
 - Skilled in React, NextJS, Node.js, MongoDB, and more.
   
 ## Projects
-Check out some of my favorite projects below or navigate to the repositories section for a
+Check out some of my projects below or navigate to the repositories section for a
 complete list.
 - [Food Ordering Website](https://github.com/Leah-Win/FoodWebsite.git) - A full-stack application for
 managing food orders with separate user and business interfaces.
